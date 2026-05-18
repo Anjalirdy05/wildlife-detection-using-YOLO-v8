@@ -736,7 +736,7 @@ function CameraFeed({ camera, active, index }) {
           playsInline
           style={{ display: 'none' }}
         >
-          <source src="/zebra.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dtuvrfv0a/video/upload/zebra_d0byfg.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       )}
