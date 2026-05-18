@@ -71,7 +71,7 @@ export default function LoginPage() {
           zIndex: 0,
           display: 'block'
         }}>
-        <source src="/login-background.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/dtuvrfv0a/video/upload/login-background_n9a7dc.mp4" type="video/mp4" />
       </video>
 
       <div className="relative z-20 w-full max-w-md px-6">
