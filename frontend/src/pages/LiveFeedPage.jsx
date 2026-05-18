@@ -708,7 +708,7 @@ function CameraFeed({ camera, active, index }) {
           playsInline
           style={{ display: 'none' }}
         >
-          <source src="/tiger.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dtuvrfv0a/video/upload/tiger_glffxd.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       )}
@@ -722,7 +722,7 @@ function CameraFeed({ camera, active, index }) {
           playsInline
           style={{ display: 'none' }}
         >
-          <source src="/elephant.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dtuvrfv0a/video/upload/elephant_hbkaue.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       )}
